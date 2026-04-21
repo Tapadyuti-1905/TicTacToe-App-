@@ -9,7 +9,6 @@ public class UC3 {
 
     }
 
-    // Reads user input
     static int getUserSlot() {
         Scanner sc = new Scanner(System.in);
 
